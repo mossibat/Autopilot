@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[57]:
-
-
 import os
 from datetime import datetime, timedelta
 import time
